@@ -13,7 +13,7 @@
     
 #next thing we want to do is create the resources for all the portfolio routes
 
-    resources :portfolio
+    resources :portfolio   if your root page is home index then use resources:home
    
 #next we add instance @ so we can globally make use of the data
 
